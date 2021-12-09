@@ -49,11 +49,13 @@ public class DigitsConverterMain {
                 break;
             case 2 :
                 convert = "два";
+                break;
             case 3 :
                 convert = "три";
                 break;
             case 4 :
                 convert = "четыре";
+                break;
             case 5 :
                 convert = "пять";
                 break;
@@ -62,11 +64,13 @@ public class DigitsConverterMain {
                 break;
             case 7 :
                 convert = "семь";
+                break;
             case 8 :
                 convert = "восемь";
                 break;
             case 9 :
                 convert = "девять";
+                break;
             case 10 :
                 convert = "десять";
                 break;
